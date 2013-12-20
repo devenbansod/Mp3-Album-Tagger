@@ -12,6 +12,7 @@ Mp3-Album-Tagger
 :)
 
 === How to run ===
+
 1) Make sure you have the 'Mutagen Module'.
 
 2) Download the '.py' file and Put it into a Folder containing the ALBUMWISE SORTED FOLDERS of Mp3s.
